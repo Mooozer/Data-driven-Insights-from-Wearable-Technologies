@@ -1,1 +1,1 @@
-![xingzhi](https://github.com/Mooozer/XingzhiCUP/blob/main/framework.jpg)
+![xingzhi](https://github.com/Mooozer/Data-driven-Insights-from-Wearable-Technologies/blob/main/network_structure.jpg)
